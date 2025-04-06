@@ -1,0 +1,5 @@
+Requirement's
+1. os-operating system
+2. streamlit
+3. dotenv
+4. Google gemini api key
